@@ -1,9 +1,5 @@
-Garbage/original_images/
-Garbage/processed_images/
-.ipynb_checkpoints/
-*.ipynb
-*.h5
-*.history.json
 __pycache__/
 .DS_Store
 *.pyc
+env/
+venv/
